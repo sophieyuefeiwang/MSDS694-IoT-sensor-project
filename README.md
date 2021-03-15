@@ -10,6 +10,8 @@ The dataset used is from 'UCI WISDM Smartphone and Smartwatch Activity and Biome
   2) Remove all the null values
   3) Convert RDDs to Spark dataframe
   4) Join the activity code dataframe with sensor info dataframe
+  http://github.com - automatic!
+[GitHub](http://github.com)
   
   ## Part 2:
   1) Identify which activity is related to eating
