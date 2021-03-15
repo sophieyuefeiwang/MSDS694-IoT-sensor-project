@@ -1,5 +1,8 @@
+# About Me
+Hello, my name is Sophie Wang and I'm receiving a Master's Degree in Data Science at University of San Francisco. This is the project I completed for Distributed Computing course.
+
 # MSDS694-IoT-sensor-project
-Distributed Computing Project -- Activity Recognition using smartphone and smartwatch data in Apache Spark
+Activity Recognition using smartphone and smartwatch data in Apache Spark
 
 # Project Description
 The dataset used is from 'UCI WISDM Smartphone and Smartwatch Activity and Biometrics' which contains information collected by gyroscopes or accelerometers of smartphone and smartwatch. The goal is to classify and recognize human activity categories by applying machine learning techniques in a distributed computing setting (SparkML and Spark+H2O). 
