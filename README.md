@@ -3,6 +3,7 @@ Hello, my name is Sophie Wang and I'm receiving a Master's Degree in Data Scienc
 
 # MSDS694-IoT-sensor-project
 Activity Recognition using smartphone and smartwatch data in Apache Spark
+#### In this repository, you will find all my python script code as well as corresponding jupyter notebook where you can see all the intermedidate results printed.
 
 # Project Description
 The dataset used is from 'UCI WISDM Smartphone and Smartwatch Activity and Biometrics' which contains information collected by gyroscopes or accelerometers of smartphone and smartwatch. The goal is to classify and recognize human activity categories by applying machine learning techniques in a distributed computing setting (SparkML and Spark+H2O). 
@@ -50,5 +51,5 @@ By comparing Spark ML and H2O, H2O is much easier to use since it takes care of 
   
   
   
-  
+
  
