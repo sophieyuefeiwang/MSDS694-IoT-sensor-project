@@ -5,7 +5,7 @@ Distributed Computing Project -- Activity Recognition using smartphone and smart
 The dataset used is from 'UCI WISDM Smartphone and Smartwatch Activity and Biometrics' which contains information collected by gyroscopes or accelerometers of smartphone and smartwatch. The goal is to classify and recognize human activity categories by applying machine learning techniques in a distributed computing setting (SparkML and Spark+H2O). 
 
 **The project consists of six parts (including EDA and machine learning):**
-  ## [Part 1](http://github.com)
+  ## [Part 1](https://github.com/sophieyuefeiwang/MSDS694-IoT-sensor-project/blob/main/part_1.py)
   1) Load all data from subfolders at once as RDDs.
   2) Remove all the null values
   3) Convert RDDs to Spark dataframe
