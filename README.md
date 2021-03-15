@@ -1,5 +1,5 @@
 # About Me
-Hello, my name is Sophie Wang and I'm receiving a Master's Degree in Data Science at University of San Francisco. This is the project I completed for Distributed Computing course.
+Hello, my name is Sophie Wang and I'm receiving a Master's Degree in Data Science at University of San Francisco. This is the individual project I completed for Distributed Computing course.
 
 # MSDS694-IoT-sensor-project
 Activity Recognition using smartphone and smartwatch data in Apache Spark
