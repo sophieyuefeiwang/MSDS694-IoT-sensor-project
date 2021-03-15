@@ -31,7 +31,7 @@ The dataset used is from 'UCI WISDM Smartphone and Smartwatch Activity and Biome
   2) Check the evaluation metric areaUnderROC on the test set (**0.933**, better than the random forest classifier)
   
   ## [Part 5](https://github.com/sophieyuefeiwang/MSDS694-IoT-sensor-project/blob/main/part_5.py)
-  #####(note: part 3-4 uses SparkML, part 5-6 uses Sparkling Water--H2O with Spark)
+  #(note: part 3-4 uses SparkML, part 5-6 uses Sparkling Water--H2O with Spark)#
   1) Fit a H2O gradient boosted tree classifier model with cross validation
   2) Check the evaluation metric areaUnderROC on the test set (**0.866**)
   3) Fit a H2O deep learning model with cross validation
